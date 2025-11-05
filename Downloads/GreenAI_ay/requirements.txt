@@ -1,0 +1,7 @@
+flask==3.0.0
+transformers==4.40.0
+torch>=2.2.0
+codecarbon==2.3.4
+accelerate==0.27.0
+sentencepiece==0.2.0
+protobuf==4.25.0
